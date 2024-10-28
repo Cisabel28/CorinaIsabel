@@ -1,2 +1,0 @@
-# CorinaIsabel
-SQL Portfolio
